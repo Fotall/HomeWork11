@@ -1,0 +1,15 @@
+/Users/budarin/Desktop/HomeWork11/bin/Debug/net6.0/HomeWork11
+/Users/budarin/Desktop/HomeWork11/bin/Debug/net6.0/HomeWork11.deps.json
+/Users/budarin/Desktop/HomeWork11/bin/Debug/net6.0/HomeWork11.runtimeconfig.json
+/Users/budarin/Desktop/HomeWork11/bin/Debug/net6.0/HomeWork11.dll
+/Users/budarin/Desktop/HomeWork11/bin/Debug/net6.0/HomeWork11.pdb
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.csproj.AssemblyReference.cache
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.AssemblyInfoInputs.cache
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.AssemblyInfo.cs
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.csproj.CoreCompileInputs.cache
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.dll
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/refint/HomeWork11.dll
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.pdb
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/HomeWork11.genruntimeconfig.cache
+/Users/budarin/Desktop/HomeWork11/obj/Debug/net6.0/ref/HomeWork11.dll
